@@ -87,7 +87,7 @@ Busco uma oportunidade na área de **Infraestrutura de TI**, com foco em:
 ## 📫 Contato
 
 - 🌐 [Linktree](https://linktr.ee/gentoober) — Todos os meus links reunidos!
-- 📧 gentoober@tutanota.com
+- 📧 gentoober@gmail.com
 
 ---
 
