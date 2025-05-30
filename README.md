@@ -34,6 +34,7 @@ Busco uma oportunidade na área de **Infraestrutura de TI**, com foco em:
 
 - 🛠 Administração de sistemas.
 - 🔧 Suporte técnico de **segundo ou terceiro nível** — voltado para **gerenciamento do sistema operacional**, **automação** e **manutenção da infraestrutura**, e não diretamente para o **atendimento ao usuário final**.
+- 🛡 Além disso, tenho interesse em atuar na área de **Segurança da Informação**, em funções técnicas e operacionais.
 
 ---
 
@@ -66,9 +67,11 @@ Busco uma oportunidade na área de **Infraestrutura de TI**, com foco em:
 - 🧬 Linguagens de baixo nível: **C** e **Assembly x86**.
 - 📚 Filosofia, Literatura, Cristianismo, Budismo, Psicologia e Neurociência.
 - ₿ Entusiasta de **Bitcoin** e **Inteligência Artificial**.
-- 🛹 Gosto de andar de skate e jogar xadrez.
+- 🎮 Gosto de **animes**, **mangás**, **HQs** e outras expressões da cultura **geek/nerd**.
+- 🛹 Também curto andar de skate, ler e jogar xadrez.
 
 ---
+
 <!--
 ## 📈 Estatísticas do GitHub
 
@@ -80,6 +83,7 @@ Busco uma oportunidade na área de **Infraestrutura de TI**, com foco em:
 
 ---
 -->
+
 ## 📫 Contato
 
 - 🌐 [Linktree](https://linktr.ee/gentoober) — Todos os meus links reunidos!
