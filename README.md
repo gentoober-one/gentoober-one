@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gentoober 👋</h1>
 
 <p align="center">
-  🎓 Profissional de TI | 💻 Linux Expert | 🛡 Cybersegurança | 🧠 Filosofia e Psicologia |
+  🛡 Analista de Segurança da Informação | 💻 Linux Expert | ⚙️ Infraestrutura de TI | 🧠 Filosofia e Psicologia |
   <br>
   🔗 <a href="https://linktr.ee/gentoober">Todos os meus links aqui!</a>
 </p>
@@ -28,13 +28,14 @@ Além disso:
 
 ---
 
-## 🎯 Objetivos profissionais
+## 🎯 Foco profissional
 
-Busco uma oportunidade na área de **Infraestrutura de TI**, com foco em:
+Atuo como **Analista de Segurança da Informação**, com background em **Infraestrutura de TI**, focado em:
 
-- 🛠 Administração de sistemas.
-- 🔧 Suporte técnico de **segundo ou terceiro nível** — voltado para **gerenciamento do sistema operacional**, **automação** e **manutenção da infraestrutura**, e não diretamente para o **atendimento ao usuário final**.
-- 🛡 Além disso, tenho interesse em atuar na área de **Segurança da Informação**, em funções técnicas e operacionais.
+- 🛡 Segurança da Informação — hardening, análise de vulnerabilidades, monitoramento e apoio a incidentes.
+- 🛠 Administração de sistemas Linux e manutenção de infraestrutura.
+- 🔧 Automação de processos e ambientes técnicos.
+- ⚙️ Continuo expandindo conhecimento em **DevSecOps**, **Blue Team** e **segurança de redes**.
 
 ---
 
