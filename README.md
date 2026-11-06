@@ -34,7 +34,7 @@ Atuação voltada à estratégia e à engenharia de Segurança da Informação, 
 
 Experiência em avaliações técnicas de segurança em ambientes corporativos, incluindo:
 
-- Execução de testes de intrusão internos autorizados e avaliações de vulnerabilidades.
+- Execução de testes de intrusão autorizados em ambientes internos e em aplicações externas expostas à internet, além de avaliações de vulnerabilidades.
 
 - Análise de segmentação de redes, serviços expostos, controles de acesso e configurações inseguras.
 
