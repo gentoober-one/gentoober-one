@@ -4,7 +4,7 @@
 
 Sou um profissional de Segurança da Informação com experiência em infraestrutura de TI, administração de sistemas Linux, redes, segurança ofensiva e engenharia de segurança.
 
-Atualmente, atuo como **Chief Information Security Officer (CISO) na **[**Silvercore Services**](https://silvercoreservices.com/), integrando segurança, engenharia e gestão de riscos às operações e soluções tecnológicas da empresa.
+Atualmente, atuo como **Chief Information Security Officer (CISO) na** [**Silvercore Services**](https://silvercoreservices.com/), integrando segurança, engenharia e gestão de riscos às operações e soluções tecnológicas da empresa.
 
 Meu principal diferencial continua sendo o conhecimento técnico em Linux e infraestrutura, aliado à capacidade de avaliar riscos, identificar vulnerabilidades e propor medidas concretas para proteger sistemas e ambientes corporativos.
 
