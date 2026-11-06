@@ -1,4 +1,4 @@
-<h1 align="center">Gentoober</h1>
+<h1 align="center">Felipe Fernandes (a.k.a. Gentoober)</h1>
 
 **CISO @ Silvercore Services | Cybersecurity | Linux Engineering | Offensive Security | DevSecOps**
 
