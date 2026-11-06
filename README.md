@@ -14,7 +14,7 @@ Acredito que segurança eficaz começa pela compreensão de como os sistemas rea
 
 ## Atuação profissional
 
-### Silvercore Services — Chief Information Security Officer (CISO)
+### Silvercore IT LTD — Chief Information Security Officer (CISO)
 
 Atuação voltada à estratégia e à engenharia de Segurança da Informação, abrangendo:
 
