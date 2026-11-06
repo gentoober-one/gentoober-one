@@ -1,45 +1,80 @@
-<h1 align="center">Olá! Eu sou o Gentoober 👋</h1>
+<h1 align="center">Gentoober</h1>
 
-<p align="center">
-  🛡 Analista de Segurança da Informação | 💻 Linux Expert | ⚙️ Infraestrutura de TI | 🧠 Filosofia e Psicologia |
-  <br>
-  🔗 <a href="https://linktr.ee/gentoober">Todos os meus links aqui!</a>
-</p>
+**CISO @ Silvercore Services | Cybersecurity | Linux Engineering | Offensive Security | DevSecOps**
 
----
+Sou um profissional de Segurança da Informação com experiência em infraestrutura de TI, administração de sistemas Linux, redes, segurança ofensiva e engenharia de segurança.
 
-## 📝 Sobre mim
+Atualmente, atuo como **Chief Information Security Officer (CISO) na **[**Silvercore Services**](https://silvercoreservices.com/), integrando segurança, engenharia e gestão de riscos às operações e soluções tecnológicas da empresa.
 
-Sou um profissional com **sólidos conhecimentos em Linux** (meu principal diferencial), além de experiência com **Windows** e outros sistemas **Unix-like**, como **macOS** e **BSDs**.
+Meu principal diferencial continua sendo o conhecimento técnico em Linux e infraestrutura, aliado à capacidade de avaliar riscos, identificar vulnerabilidades e propor medidas concretas para proteger sistemas e ambientes corporativos.
 
-Atuo com:
-
-- 🐳 Containers: **Docker** e **Podman**
-- ⚙️ Virtualização: **QEMU**, **VMWare** e **VirtualBox**
-- 🌐 Redes: **TCP/IP**, **modelo OSI**, **HTTP/S**, **VoIP/SIP**, **SSH**, **SFTP**, **Samba**, entre outros
-- 🌍 Administração de servidores web: **Apache** e **NGINX**
-- ☎️ Soluções de telecomunicações: **Asterisk** e **PABX**
-
-Além disso:
-
-- 🔐 Possuo treinamento em **segurança ofensiva**.
-- 📄 Conhecimentos gerais sobre as normas **ISO/IEC 27001** e **27002**.
-- ⚖️ Estudo e aplico aspectos legais da **Lei Geral de Proteção de Dados (LGPD)**.
+Acredito que segurança eficaz começa pela compreensão de como os sistemas realmente funcionam, não apenas pela utilização de ferramentas.
 
 ---
 
-## 🎯 Foco profissional
+## Atuação profissional
 
-Atuo como **Analista de Segurança da Informação**, com background em **Infraestrutura de TI**, focado em:
+### Silvercore Services — Chief Information Security Officer (CISO)
 
-- 🛡 Segurança da Informação — hardening, análise de vulnerabilidades, monitoramento e apoio a incidentes.
-- 🛠 Administração de sistemas Linux e manutenção de infraestrutura.
-- 🔧 Automação de processos e ambientes técnicos.
-- ⚙️ Continuo expandindo conhecimento em **DevSecOps**, **Blue Team** e **segurança de redes**.
+Atuação voltada à estratégia e à engenharia de Segurança da Informação, abrangendo:
+
+- Governança de segurança, gestão de riscos e definição de controles.
+
+- Segurança de aplicações, APIs, infraestrutura e serviços corporativos.
+
+- Avaliação de vulnerabilidades, hardening e redução da superfície de ataque.
+
+- Integração de práticas de segurança aos processos de desenvolvimento, automação e operações.
+
+- Segurança em soluções baseadas em inteligência artificial.
+
+- Planejamento de melhorias, documentação técnica e avaliação de riscos para o negócio.
+
+### EQS Engenharia — Analista de Segurança da Informação
+
+Experiência em avaliações técnicas de segurança em ambientes corporativos, incluindo:
+
+- Execução de testes de intrusão internos autorizados e avaliações de vulnerabilidades.
+
+- Análise de segmentação de redes, serviços expostos, controles de acesso e configurações inseguras.
+
+- Avaliação de mecanismos de autenticação, autorização e gerenciamento de sessões em aplicações web.
+
+- Identificação de fragilidades de segurança em estações, servidores e serviços de infraestrutura.
+
+- Elaboração de relatórios técnicos e executivos, com classificação de riscos, evidências e recomendações de remediação.
+
+- Desenvolvimento de propostas de modernização da infraestrutura, envolvendo arquitetura de redes, identidade, acesso remoto seguro e administração centralizada.
+
+Essa experiência consolidou minha abordagem de segurança: identificar, validar, documentar, priorizar e recomendar correções com base em evidências técnicas e no impacto para o negócio.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## Especialidades e conhecimentos técnicos
+
+**Segurança da Informação**
+
+Pentest, análise de vulnerabilidades, segurança de redes, hardening, segurança de aplicações e APIs, IAM, controles de acesso, monitoramento, gestão de riscos e DevSecOps.
+
+**Linux e infraestrutura**
+
+Gentoo Linux, OpenRC, administração de servidores, SSH, redes TCP/IP, ZFS, virtualização, containers, serviços web e automação de infraestrutura.
+
+**Desenvolvimento e automação**
+
+Bash, Python, C, shell scripting, integração de ferramentas e automação de tarefas operacionais e de segurança.
+
+**Tecnologias e ferramentas**
+
+Docker, Podman, QEMU/KVM, VMware, VirtualBox, NGINX, Apache, Nmap, Nessus e ferramentas de diagnóstico de redes e sistemas.
+
+**Governança e conformidade**
+
+Conhecimentos em ISO/IEC 27001, ISO/IEC 27002, LGPD, documentação de controles, avaliação de riscos e planejamento de remediação.
+
+---
+
+## Tecnologias e ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Gentoo](https://img.shields.io/badge/Gentoo-purple?style=flat&logo=gentoo&logoColor=white)
@@ -61,34 +96,51 @@ Atuo como **Analista de Segurança da Informação**, com background em **Infrae
 
 ---
 
-## 🧠 Interesses
+## Projetos e publicações
 
-- 🛡 Segurança da Informação e CyberSegurança.
-- ⚙️ DevOps e automação de infraestrutura.
-- 🧬 Linguagens de baixo nível: **C** e **Assembly x86**.
-- 📚 Filosofia, Literatura, Cristianismo, Budismo, Psicologia e Neurociência.
-- ₿ Entusiasta de **Bitcoin** e **Inteligência Artificial**.
-- 🎮 Gosto de **animes**, **mangás**, **HQs** e outras expressões da cultura **geek/nerd**.
-- 🛹 Também curto andar de skate, ler e jogar xadrez.
+- [**Personal Info**](https://gentoober-one.github.io/info/) — Apresentação profissional, trajetória técnica e áreas de atuação.
+
+- [**Gentoobox**](https://github.com/gentoober-one/gentoobox) — Configurações pessoais e experimentos com ambientes Linux e gerenciadores de janelas.
+
+- [**Cheatsheets**](https://github.com/gentoober-one/cheatsheets) — Anotações e referências técnicas.
+
+- [**Linux Division**](https://www.instagram.com/linuxdivision/) — Projeto pessoal sobre Linux e tecnologia.
+
+- [**Blog**](https://gentoober.blogspot.com/) — Publicações sobre Linux, segurança, programação e outros assuntos técnicos.
+
+---
+
+## Pesquisa e interesses
+
+Além da atuação profissional, mantenho interesse especial em:
+
+- Arquitetura de computadores, C e Assembly x86.
+
+- Engenharia reversa e análise de malware.
+
+- Segurança ofensiva, Blue Team e Red Team.
+
+- Inteligência artificial aplicada à engenharia de software e à segurança.
+
+- Sistemas operacionais, kernels, redes e computação de baixo nível.
+
+- Filosofia, literatura, psicologia e neurociência.
+
+Valorizo aprendizado contínuo, pensamento independente, experimentação e compreensão dos fundamentos técnicos.
 
 ---
 
-<!--
-## 📈 Estatísticas do GitHub
+## Contato
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gentoober-one&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gentoober-one&theme=radical" alt="GitHub Streak">
-</p>
+**Site pessoal:** [https://gentoober-one.github.io/info/](https://gentoober-one.github.io/info/)
 
----
--->
+**Empresa:** [https://silvercoreservices.com/](https://silvercoreservices.com/)
 
-## 📫 Contato
+**Email:** [gentoober@gmail.com](mailto:gentoober@gmail.com)
 
-- 🌐 [Linktree](https://linktr.ee/gentoober) — Todos os meus links reunidos!
-- 📧 gentoober@gmail.com
+**Telegram:** [https://t.me/gentoober](https://t.me/gentoober)
+
+**Outros links:** [https://linktr.ee/gentoober](https://linktr.ee/gentoober)
 
 ---
 
