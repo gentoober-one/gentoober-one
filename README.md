@@ -124,6 +124,8 @@ Além da atuação profissional, mantenho interesse especial em:
 
 - Sistemas operacionais, kernels, redes e computação de baixo nível.
 
+- Bitcoin (BTC), criptomoedas, blockchain e autocustódia, com foco em segurança de carteiras, backups e recuperação.
+
 - Filosofia, literatura, psicologia e neurociência.
 
 Valorizo aprendizado contínuo, pensamento independente, experimentação e compreensão dos fundamentos técnicos.
