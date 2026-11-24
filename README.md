@@ -62,7 +62,7 @@ Gentoo Linux, OpenRC, administração de servidores, SSH, redes TCP/IP, ZFS, vir
 
 **Desenvolvimento e automação**
 
-Bash, Python, C, shell scripting, integração de ferramentas e automação de tarefas operacionais e de segurança.
+Bash, Python, C, Assembly x86, shell scripting, integração de ferramentas e automação de tarefas operacionais e de segurança.
 
 **Tecnologias e ferramentas**
 
