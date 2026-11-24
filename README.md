@@ -102,7 +102,7 @@ Conhecimentos em ISO/IEC 27001, ISO/IEC 27002, LGPD, documentação de controles
 
 - [**Gentoobox**](https://github.com/gentoober-one/gentoobox) — Configurações pessoais e experimentos com ambientes Linux e gerenciadores de janelas.
 
-- [**Cheatsheets**](https://github.com/gentoober-one/cheatsheets) — Anotações e referências técnicas.
+- [**Krux Experimental**](https://github.com/gentoober-one/krux-experimental) — Analisei e reempacotei uma versão experimental do Krux Mobile para Android para excluir dados do aplicativo do backup em nuvem e da transferência entre aparelhos. Documentei a comparação com o APK original. A validação de restauração entre aparelhos ainda está pendente. O aplicativo original é do [projeto Krux](https://github.com/selfcustody/KruxMobileApp).
 
 - [**Linux Division**](https://www.instagram.com/linuxdivision/) — Projeto pessoal sobre Linux e tecnologia.
 
